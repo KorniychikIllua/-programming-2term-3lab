@@ -1,0 +1,6 @@
+﻿  VehiclePark.cpp
+  main.cpp
+D:\Education\Programming\Term2\lab3\Programming-lab3\main.cpp(23,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Education\Programming\Term2\lab3\Programming-lab3\main.cpp(24,31): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+  Programming-lab3.vcxproj -> D:\Education\Programming\Term2\lab3\Programming-lab3\Debug\Programming-lab3.exe
